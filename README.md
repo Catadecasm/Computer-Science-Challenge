@@ -25,8 +25,8 @@ However, they will be briefly described here.
 
 ### Longest Valid Parentheses
 
-- Time complexity is O(n)
-- Space complexity is O(1)
+- Time complexity is O(n^2)
+- Space complexity is O(n)
 
 ##
 
