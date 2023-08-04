@@ -1,9 +1,9 @@
-"""The time complexity of the code is O(n), where n is the length of the string s.
- This is because the code iterates through the string s once, and each iteration takes constant time.
+"""The time complexity of the code is O(n^2), where n is the length of the string s.
+ This is because the code iterates through the string s, and each iteration takes linear time.
 """
 
-"""The space complexity of the code is O(1), where n is the length of the string s.
- This is because the code only uses a constant amount of space to store the array and the lengthLongest variable.
+"""The space complexity of the code is O(n), where n is the length of the string s.
+ This is because the code only uses a linear amount of space to store the array and the lengthLongest variable.
 """
 
 class Solution:
